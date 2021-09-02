@@ -2,8 +2,8 @@
 __*Work in progress...*__
 # Easemail
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
-[![PyPI](https://img.shields.io/pypi/v/yagmail.svg?style=flat-square)](https://pypi.python.org/pypi/easemail/)
-[![PyPI](https://img.shields.io/pypi/pyversions/yagmail.svg?style=flat-square)](https://pypi.python.org/pypi/easemail/)
+[[![PyPI](https://img.shields.io/pypi/v/yagmail.svg?style=flat-square)](https://pypi.python.org/pypi/easemail/)](https://img.shields.io/pypi/v/easemail)
+[[![PyPI](https://img.shields.io/pypi/pyversions/yagmail.svg?style=flat-square)](https://pypi.python.org/pypi/easemail/)](https://img.shields.io/pypi/pyversions/easemail)
 
 ------
 The package has been created gradually while trying to make sending automatic mails in Python as easy as possible. I ended up with a package that basically just adds some features to [yagmail](https://github.com/kootenpv/yagmail). These are:
