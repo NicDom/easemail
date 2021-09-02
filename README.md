@@ -34,7 +34,7 @@ hmtl = """
         <p>Hi,<br>
         How are you?<br>
         You can find the easemail project
-        <a href="https://github.com/NicDom/easemail">here</a>
+        <a href="https://github.com/NicDom/easemail">here.</a>
         </p>
     </body>
     </html>
